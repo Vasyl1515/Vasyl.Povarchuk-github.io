@@ -1,0 +1,309 @@
+
+@media(min-width: 992px){
+	
+
+.conteiner{
+	position: relative;
+     border: 1px solid black;
+     max-width: 800;
+     height: 700px;
+     background-color:#7FFFD4;
+     display: flex;
+     margin: 0 auto;
+    
+     }
+.ram1{
+	border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#F08080;
+     float: right;
+     
+     }
+.tex{
+	position: relative;
+	font-size: 150%; 
+	text-align: center;
+	bottom: 20px;
+     }
+
+.ver{
+	padding: 25px;
+      }
+
+ .box1{
+ 	position: relative;
+     border: 4px solid black;
+     max-width: 32%;
+     height: 275px;
+     background-color:gray;
+     margin-left: 5px;
+    
+     
+      }
+ .box2{
+ 	position: relative;
+     border: 4px solid black;
+     max-width: 32%;
+     height: 275px;
+     background-color:gray;
+     margin-left: 5px;
+    
+   
+   
+    
+    
+      }
+ .ram2{
+	border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#A52A2A;
+     float: right;
+     
+     
+     }
+.tex2{
+	position: relative;
+	font-size: 150%; 
+	text-align: center;
+	color:white;
+	bottom: 20px;
+
+	 }
+	.box3{
+ 	position: relative;
+     border: 4px solid black;
+     max-width: 32%;
+     height: 275px;
+     background-color:gray;
+     margin-left: 5px;
+
+     
+    
+
+     }
+ .ram3{
+	border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#FFDEAD;
+     float: right;
+     
+      }
+.tex3{
+	position: relative;
+	font-size: 150%; 
+	text-align: center;
+	color:black;
+	bottom: 20px;
+
+	 }
+	
+ h1{
+ 	text-align: center;
+     }
+ }  
+ @media(min-width: 768px) and (max-width: 992px){
+ 	.conteiner{
+	position: relative;
+     border: 1px solid black;
+     max-width: 1000px;
+     height: 900px;
+     background-color:#7FFFD4;
+     margin: 0px auto;
+
+    
+
+      }
+
+.ram1{
+	border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#F08080;
+     float: right;
+     
+      }
+
+.tex{
+	position: relative;
+	font-size: 150%; 
+	text-align: center;
+	bottom: 20px;
+
+	
+       }
+
+ .box1{
+ 	position: relative;
+     border: 4px solid black;
+     max-width: 42%;
+     height: 200px;
+     background-color:gray;
+     top: 20px;
+     padding: 15px;
+
+      }
+
+ .box2{
+ 	position: relative;
+     border: 4px solid black;
+     max-width: 42%;
+     height: 200px;
+     background-color:gray;
+    float: right;
+    bottom: 216px;
+    padding: 15px;
+     
+      }
+
+
+ .ram2{
+	border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#A52A2A;
+     float: right;
+     
+     }
+.tex2{
+	position: relative;
+	font-size: 150%; 
+	text-align: center;
+	color:white;
+	bottom: 20px;
+
+	 }
+	.box3{
+ 	position: relative;
+     border: 4px solid black;
+     max-width: 100%;
+     height: 150px;
+     background-color:gray;
+    padding: 15px;
+    float: right;
+    bottom: 170px;
+     }
+
+ .ram3{
+	border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#FFDEAD;
+     float: right;
+     }
+
+.tex3{
+	position: relative;
+	font-size: 150%; 
+	text-align: center;
+	color:black;
+	bottom: 20px;
+    }
+	
+ h1{
+ 	text-align: center;
+
+     }
+ }  
+ @media(max-width: 768px){
+ 	.conteiner{
+	position: relative;
+     border: 1px solid black;
+     max-width: 800;
+     height: 1000px;
+     background-color:#7FFFD4;
+    
+     }
+
+.ram1{
+	border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#F08080;
+     float: right;
+     
+     }
+.tex{
+	position: relative;
+	font-size: 150%; 
+	text-align: center;
+	bottom: 20px;
+     }
+
+.ver{
+	padding: 25px;
+     }
+
+ .box1{
+ 	position: relative;
+     border: 4px solid black;
+     max-width: 100%;
+     height: 202px;
+     background-color:gray;
+     top: 20px;
+     
+     
+     }
+ .box2{
+
+ 	position: relative;
+     border: 4px solid black;
+     max-width: 100%;
+     height: 202px;
+     background-color:gray;
+    left:0px;
+    margin-top: 100px;
+    
+    
+      }
+
+ .ram2{
+	border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#A52A2A;
+     float: right;
+      }
+
+.tex2{
+	position: relative;
+	font-size: 150%; 
+	text-align: center;
+	color:white;
+	bottom: 20px;
+
+	}
+	.box3{
+ 	position: relative;
+     border: 4px solid black;
+     max-width: 100%;
+     height: 202px;
+     background-color:gray;
+     float: right;
+      margin-top: 100px;
+      }
+
+ .ram3{
+	border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#FFDEAD;
+     float: right;
+     
+      }
+
+.tex3{
+	position: relative;
+	font-size: 150%; 
+	text-align: center;
+	color:black;
+	bottom: 20px;
+
+	 }
+	
+ h1{
+ 	text-align: center;
+     }
+}
